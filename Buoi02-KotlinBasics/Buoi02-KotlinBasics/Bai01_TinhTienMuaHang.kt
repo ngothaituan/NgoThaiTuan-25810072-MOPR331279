@@ -1,4 +1,4 @@
-// Phạm Tuấn Anh - 25810054
+// Ngô Thái Tuấn - 25810072
 
 fun main() {
     val soLuong: Int = 5
